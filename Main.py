@@ -58,5 +58,6 @@ if __name__ == '__main__':
     #bmf_project
     #bemyfriends
     #bstage
+    #test
     fileopen("./targetFile")
     print("프로그램 종료")
